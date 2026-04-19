@@ -1,0 +1,1 @@
+# Testing git through a gui (a graphical user interface)
